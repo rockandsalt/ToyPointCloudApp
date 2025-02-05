@@ -6,8 +6,7 @@ import {
   PointsMaterial,
   Box3,
   Vector3,
-  PerspectiveCamera,
-  GridHelper,
+  PerspectiveCamera
 } from "three";
 import { useEffect, useMemo, useRef, useState } from "react";
 
