@@ -1,4 +1,22 @@
+.hidden {
+  display: none;
+}
+
 .canvas-container {
   width: 100vw;
   height: 100vh;
 }
+
+.open-file-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 10;
+}
+
